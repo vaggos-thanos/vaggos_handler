@@ -1,7 +1,7 @@
 # vaggos_handler
 
 
-![Build Status](https://github.com/vaggos_Dev/vaggos_handler/actions/workflows/index.js/badge.svg?branch=main)
+![Build Status](https://github.com/vaggos-thanos/vaggos_handler/actions/workflows/index.js/badge.svg?branch=main)
 
 vaggos_handler is an class based command and event handler for discord.js v13
 
